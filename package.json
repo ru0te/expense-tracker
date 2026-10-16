@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A CLI to store and track expenses in the terminal",
+  "homepage": "https://github.com/ru0te/expense-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/ru0te/expense-tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru0te/expense-tracker.git"
+  },
+  "license": "ISC",
+  "author": "ru0te",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
