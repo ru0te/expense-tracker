@@ -79,6 +79,14 @@ Displays the built-in manual detailing all available commands and formatting str
 expense-tracker help
 ```
 
+### 5. `q`
+
+Quits the application.
+
+```bash
+expense-tracker quit
+```
+
 ## 📁 Data Storage
 
 Your data is managed locally inside a `data.json` file in the root directory (or your local system app data path).
